@@ -2,7 +2,7 @@
 ## Fundamental and Statistical Analysis of Stock Data
 
 ### Overview
-This project explores the feasibility and effectiveness of automated trading by analyzing fundamental and technical aspects of stock data. Utilizing data from SEC 10K filings from 2012-2016, we delve into the intricacies of stock market data, aiming to uncover patterns and predict stock behavior. The project is structured around a series of analytical tasks, including data exploration, linear regression modeling, multicollinearity analysis, p-value analysis, and False Discovery Rate (FDR) control, culminating in the evaluation of a linear regression model enhanced with interaction terms.
+This project explores the feasibility and effectiveness of automated trading by analyzing fundamental and technical aspects of stock data. Utilizing data from SEC 10K filings from 2012-2016, we delve into the intricacies of stock market data, aiming to derive most of popular fundamental indicators. The project is structured around a series of analytical tasks, including data exploration, linear regression modeling, multicollinearity analysis, p-value analysis, and False Discovery Rate (FDR) control, culminating in the evaluation of a linear regression model enhanced with interaction terms.
 
 ### Dataset Description
 The dataset comprises metrics extracted from annual SEC 10K filings over the period 2012-2016. It contains 1781 observations and 78 attributes, providing a rich foundation for deriving popular fundamental indicators and performing comprehensive stock analysis.
