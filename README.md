@@ -35,3 +35,14 @@ The project is divided into several key sections:
 ## Outcomes
 <img src="p-value.png" width="400" height="301">
 
+Skewness towards the 0 value mark shows that there are true discoveries.
+
+<img src="bh-procedure.png" width="400" height="301">
+
+- We discovered 81 significant predictors out of which 10% can be false, which means about 73 predictors are actually true discoveries.
+
+- This also is alligned with the observation that the interaction models p-value histogram plot - more extreme skewness.
+
+- In the original model we recognised 11 significant predictors out of which 10 were true predictors based on the FDR rate
+- In the interaction model we recognised 81 significant predictors out of which 73 were true predictors based on the FDR rate
+- Including interaction terms really boosts our models capability to discover more true significant predictors compared to the normal model.
