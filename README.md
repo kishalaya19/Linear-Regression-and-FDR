@@ -12,6 +12,8 @@ The dataset comprises metrics extracted from annual SEC 10K filings over the per
 ### Project Structure
 The project is divided into several key sections:
 
+<img src="fdi-structure.png" width="540" height="381">
+
 - Data Exploration and Visualization: Initial exploration of the fundamentals.csv dataset, including visualization of key metrics and trends.
 
 - Linear Regression Model Development: Development of a linear regression model to predict Estimated Shares Outstanding, detailing the model's formulation and interpretation.
