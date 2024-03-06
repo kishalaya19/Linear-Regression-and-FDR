@@ -32,3 +32,6 @@ The project is divided into several key sections:
 
 - FDR Analysis with Interaction Terms: Re-evaluation of the FDR control incorporating interaction terms, comparing the number of significant predictors identified against the original model.
 
+## Outcomes
+<img src="p-value.png" width="400" height="301">
+
